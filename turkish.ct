@@ -1,0 +1,53 @@
+## version $VER: executestartup.catalog 1.0 (16.12.2020)
+## language türkçe
+## codeset 0
+;
+;
+MSG_ERROR
+Hata
+; Error
+;
+MSG_WARNING
+Uyarı
+; Warning
+;
+MSG_OK
+TAMAM
+; OK
+;
+MSG_ERROR_GETDISKOBJECT
+ExecuteStartup\nDisk Nesnesini alma başarısız oldu:\n%s
+; ExecuteStartup\nGetDiskObject failed for:\n%s
+;
+MSG_ERROR_INFONODE
+ExecuteStartup\nInfoNode için bellek yetersiz
+; ExecuteStartup\nOut of memory for InfoNode
+;
+MSG_ERROR_LNNAME
+ExecuteStartup\nln_Name için bellek yetersiz
+; ExecuteStartup\nOut of memory for ln_Name
+;
+MSG_ERROR_SCANNING
+ExecuteStartup\nDizini tararken %ld hatası oluştu
+; ExecuteStartup\nError %ld occured while scanning directory
+;
+MSG_ERROR_ANCHORPATH
+ExecuteStartup\nAnchorPath için bellek yetersiz
+; ExecuteStartup\nOut of memory for AnchorPath
+;
+MSG_ERROR_FILEINFOBLOCK
+ExecuteStartup\nFileInfoBlock için bellek yetersiz
+; ExecuteStartup\nOut of memory for FileInfoBlock
+;
+MSG_ERROR_MEMORYPOOL
+ExecuteStartup\nHavuz belleği oluşturulamadı
+; ExecuteStartup\nCouldn't create pool memory
+;
+MSG_ERROR_EXAMINE
+ExecuteStartup\nİncelenemedi
+; ExecuteStartup\nCouldn't examine 
+;Note final space!
+MSG_WARNING_OPENWBOBJECT
+ExecuteStartup\nOpen Workbench Nesnesi şunun için başarısız oldu:\n%s
+; ExecuteStartup\nOpenWorkbenchObject failed for:\n%s
+;
