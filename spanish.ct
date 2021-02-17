@@ -1,5 +1,5 @@
 ## version $VER: executestartup.catalog 1.0 (04.01.2021)
-## language spanish
+## language español
 ## codeset 0
 ;
 ;
@@ -44,6 +44,7 @@ MSG_ERROR_EXAMINE
 ExecuteStartup\nImposible leer 
 ; ExecuteStartup\nCouldn't examine 
 ;Note final space!
+;
 MSG_WARNING_OPENWBOBJECT
 ExecuteStartup\nOpenWorkbenchObject ha fallado:\n%s
 ; ExecuteStartup\nOpenWorkbenchObject failed for:\n%s
